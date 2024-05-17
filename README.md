@@ -1,13 +1,14 @@
 # Posthog-LLM Examples
 
-This repository contains examples of how to upload data to PostHog-LLM using PostHog python client library.
+This repository contains examples of how to upload data to [PostHog-LLM](https://github.com/postlang/posthog-llm) using PostHog python client library.
 
 # Quick Start
 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/postlang/posthog-llm-examples
+git clone https://github.com/AndrMoura/posthog-llm-examples
+cd posthog-llm-examples
 ```
 2. Install the PostHog python client library:
 
